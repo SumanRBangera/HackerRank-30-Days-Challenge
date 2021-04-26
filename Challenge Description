@@ -15,3 +15,6 @@ Day 3: Intro to Conditional Statements
 Day 4: Class vs. Instance
   In this challenge, we're going to learn about the difference between a class and an instance; 
   because this is an Object Oriented concept, it's only enabled in certain languages. 
+
+Day 5: Loops
+  In this challenge, we will use loops to do some math. That is to print multiplication table.
